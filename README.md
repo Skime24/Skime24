@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Skime24
+- 👋 Hi, I’m @DWsieTech
 - 👀 I’m interested in learning about hacking
-- 🌱 I’m currently learning termux
+- 🌱 I’m currently python
 - 💞️ I’m looking to collaborate on Kali linux
-- 📫 How to reach me WhatsApp 09077106540
-Fb skesh mesh
+- 📫 How to reach me WhatsApp +2347054559283
+
 
 <!---
 Skime24/Skime24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
